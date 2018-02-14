@@ -28,8 +28,8 @@ limited to, the following:
  involved, if any?
 * FLOSS and communities: What social and technical skills are required to
  build an international FLOSS community?
-* FLOSS and the software lifecycle: How does the decision affect the software
-development lifecycle? 
+* FLOSS and the software lifecycle: How FLOSS affects the software
+development lifecycle (methodology, tooling, project governance and team management)? 
 * FLOSS and sustainability: How does the cost of developing and maintaining FLOSS
  compares to developing and maintaining proprietary software? By and large, is
  FLOSS more sustainable than proprietary software?
