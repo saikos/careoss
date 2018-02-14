@@ -14,7 +14,7 @@ software solutions that we design, build and deploy today and its ongoing adopti
 businesses, governments, and other organizations offers a constantly expanding
 ground for collaboration, business development and innovation. 
 
-The workshop aims to bring together members of the FLOSS
+The workshop aims to bring together researchers, practitioners and members of the FLOSS
 community to discuss the critical underpinnings of a decision to release software with a Free/Libre
 Open Source License. The goal is to identify and elaborate on the pragmatic
 concerns involved in the decision, covering aspects that include, but are not
