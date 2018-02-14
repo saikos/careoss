@@ -1,4 +1,4 @@
-## "Should we release it?" 
+## Should we release it?
 
 International workshop on the Critical Aspects of Releasing Open Source Software (CAReOSS)
 
