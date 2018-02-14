@@ -1,37 +1,69 @@
-## Welcome to GitHub Pages
+## "Should we release it?" 
 
-You can use the [editor on GitHub](https://github.com/saikos/careoss/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+International workshop on the Critical Aspects of Releasing Open Source Software (CAReOSS)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Held in conjunction with the 14th International Conference on Open Source Systems ([OSS 2018](http://www.oss2018.org))
 
-### Markdown
+Sunday, June 10th 2018, Athens, Greece
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Call For Papers
 
-```markdown
-Syntax highlighted code block
+Free/Libre Open Source Software (FLOSS) is playing an essential role
+in the success of the large, complex and sophsticated
+software solutions that we design, build and deploy today and its ongoing adoption among
+businesses, governments, and other organizations offers a constantly expanding
+ground for collaboration, business development and innovation. 
 
-# Header 1
-## Header 2
-### Header 3
+The workshop aims to bring together members of the FLOSS
+community to discuss the critical underpinnings of a decision to release software with a Free/Libre
+Open Source License. The goal is to identify and elaborate on the pragmatic
+concerns involved in the decision, covering aspects that include, but are not
+limited to, the following:
 
-- Bulleted
-- List
+* FLOSS and business models: Can it strengthen your business model, paving
+ the way to new opportunities? 
+* FLOSS and innovation: Is it suitable for an innovative startup or small
+ company?
+* FLOSS and licensing: Which license should you choose and what risks are
+ involved, if any?
+* FLOSS and communities: What social and technical skills are required to
+ build an international FLOSS community?
+* FLOSS and the software lifecycle: How does the decision affect the software
+development lifecycle? 
+* FLOSS and sustainability: How does the cost of developing and maintaining FLOSS
+ compares to developing and maintaining proprietary software? By and large, is
+ FLOSS more sustainable than proprietary software?
 
-1. Numbered
-2. List
+The workshop seeks for contributions that will elaborate on the above or
+related topics and discuss lessons learned, suggest best practices, report on
+previous experience (reflecting on successes or failures), pinpoint anti-patterns,
+and, ultimately, articulate the crucial issues to be taken under consideration by the
+decision makers (such as software developers, product managers, business
+stakeholders).
 
-**Bold** and _Italic_ and `Code` text
+### Important Dates
 
-[Link](url) and ![Image](src)
-```
+* Submission of papers: April 9
+* Notification of acceptance: April 23
+* Camera-ready paper due: May 8
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Submission guidelines 
 
-### Jekyll Themes
+All submissions must be 5 pages maximum in the Springer conference paper
+format. The bibliographic references do not count towards the page limit. 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/saikos/careoss/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+All authors should submit their papers through www.easychair.org website at https://easychair.org/conferences/?conf=oss2018
 
-### Support or Contact
+Accepted papers will be included in the conference proceedings, which will be published by Springer in IFIP Advances in Information and Communication Technology (IFIP AICT) Series. 
+All information relevant to contributing authors regarding the IFIP AICT print/electronic publication process can be found at www.springer.com/series/6102. Particularly we would like to ask the authors to apply the Springer conference paper templates, which can be found in the author’s instruction page here: https://goo.gl/r83B1W.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Organizers
+
+* Kostas Saidis, National and Kapodistrian University of Athens & National
+Technical University of Athens, Greece
+* Agapios Avramidis, University of Piraeus, Greece
+
+### Program Committee 
+
+...
+
