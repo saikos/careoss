@@ -9,7 +9,7 @@ Sunday, June 10th 2018, Athens, Greece
 ### Call For Papers
 
 Free/Libre Open Source Software (FLOSS) is playing an essential role
-in the success of the large, complex and sophsticated
+in the success of the large, complex and sophisticated
 software solutions that we design, build and deploy today and its ongoing adoption among
 businesses, governments, and other organizations offers a constantly expanding
 ground for collaboration, business development and innovation. 
