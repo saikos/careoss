@@ -61,13 +61,13 @@ All information relevant to contributing authors regarding the IFIP AICT print/e
 
 * Kostas Saidis, National and Kapodistrian University of Athens & National
 Technical University of Athens (Greece)
-
 * Agapios Avramidis, Niovity (Greece)
 
 ### Program Committee 
 
 * Sarantos Kapidakis, Ionian University (Greece)
 * Nikolaos S. Papaspyrou, National Technical University of Athens (Greece)
+* Yannis Smaragdakis, National and Kapodistrian University of Athens (Greece)
 * Diomidis Spinellis, Athens University of Economics and Business (Greece)
 * Prodromos Tsiavos, Onassis Cultural Center (Greece)
-* More to be announced
+* PC members pending
