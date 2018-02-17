@@ -43,27 +43,31 @@ stakeholders).
 
 ### Important Dates
 
-* Submission of papers: April 9
-* Notification of acceptance: April 23
-* Camera-ready paper due: May 8
+* Submission of papers: April 1
+* Notification of acceptance: April 11
+* Camera-ready paper due: April 25
 
 ### Submission guidelines 
 
 All submissions must be 5 pages maximum in the Springer conference paper
 format. The bibliographic references do not count towards the page limit. 
 
-All authors should submit their papers through www.easychair.org website at https://easychair.org/conferences/?conf=oss2018
+All authors should submit their papers through [easychair](https://easychair.org/conferences/?conf=oss2018).
 
 Accepted papers will be included in the conference proceedings, which will be published by Springer in IFIP Advances in Information and Communication Technology (IFIP AICT) Series. 
-All information relevant to contributing authors regarding the IFIP AICT print/electronic publication process can be found at www.springer.com/series/6102. Particularly we would like to ask the authors to apply the Springer conference paper templates, which can be found in the author’s instruction page here: https://goo.gl/r83B1W.
+All information relevant to contributing authors regarding the IFIP AICT print/electronic publication process can be found at [www.springer.com/series/6102](http://www.springer.com/series/6102). Particularly we would like to ask the authors to apply the Springer conference paper templates, which can be found in the [author’s instruction page](https://goo.gl/r83B1W).
 
 ### Organizers
 
 * Kostas Saidis, National and Kapodistrian University of Athens & National
-Technical University of Athens, Greece
-* Agapios Avramidis, University of Piraeus, Greece
+Technical University of Athens (Greece)
+
+* Agapios Avramidis, Niovity (Greece)
 
 ### Program Committee 
 
-...
-
+* Sarantos Kapidakis, Ionian University (Greece)
+* Nikolaos S. Papaspyrou, National Technical University of Athens (Greece)
+* Diomidis Spinellis, Athens University of Economics and Business (Greece)
+* Prodromos Tsiavos, Onassis Cultural Center (Greece)
+* More to be announced
