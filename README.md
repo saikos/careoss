@@ -65,6 +65,7 @@ Technical University of Athens (Greece)
 
 ### Program Committee 
 
+* Claudio Atzori, Istituto di Scienza e Tecnologie dell’Informazione “A. Faedo”, CNR (Italy)
 * Sarantos Kapidakis, Ionian University (Greece)
 * Nikolaos S. Papaspyrou, National Technical University of Athens (Greece)
 * Gregorio Robles, Universidad Rey Juan Carlos (Spain)
