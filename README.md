@@ -20,11 +20,11 @@ Open Source License. The goal is to identify and elaborate on the pragmatic
 concerns involved in the decision, covering aspects that include, but are not
 limited to, the following:
 
-* FLOSS and business models: Can it strengthen your business model, paving
+* FLOSS and business models: Can it strengthen a business model, paving
  the way to new opportunities? 
 * FLOSS and innovation: Is it suitable for an innovative startup or small
  company?
-* FLOSS and licensing: Which license should you choose and what risks are
+* FLOSS and licensing: Which license should be chosen and what risks are
  involved, if any?
 * FLOSS and communities: What social and technical skills are required to
  build an international FLOSS community?
