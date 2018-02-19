@@ -65,6 +65,7 @@ Technical University of Athens (Greece)
 
 ### Program Committee 
 
+* Sandro S. Andrade, Federal Institute of Education, Science and Technology of Bahia (Brazil)
 * Claudio Atzori, Istituto di Scienza e Tecnologie dell’Informazione “A. Faedo”, CNR (Italy)
 * Sarantos Kapidakis, Ionian University (Greece)
 * Nikolaos S. Papaspyrou, National Technical University of Athens (Greece)
