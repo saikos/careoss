@@ -4,7 +4,7 @@ International workshop on the Critical Aspects of Releasing Open Source Software
 
 Held in conjunction with the 14th International Conference on Open Source Systems ([OSS 2018](http://www.oss2018.org))
 
-Sunday, June 10th 2018, Athens, Greece
+Sunday, June 10th 2018, [Harokopio University](http://www.hua.gr), Athens, Greece
 
 ### Call For Papers
 
