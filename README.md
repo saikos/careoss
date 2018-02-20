@@ -67,6 +67,7 @@ Technical University of Athens (Greece)
 
 * Sandro S. Andrade, Federal Institute of Education, Science and Technology of Bahia (Brazil)
 * Claudio Atzori, Istituto di Scienza e Tecnologie dell’Informazione “A. Faedo”, CNR (Italy)
+* Christos Douligeris, University of Piraeus (Greece)
 * Sarantos Kapidakis, Ionian University (Greece)
 * Nikolaos S. Papaspyrou, National Technical University of Athens (Greece)
 * Gregorio Robles, Universidad Rey Juan Carlos (Spain)
