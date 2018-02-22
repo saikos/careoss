@@ -66,6 +66,7 @@ Technical University of Athens (Greece)
 ### Program Committee 
 
 * Sandro S. Andrade, Federal Institute of Education, Science and Technology of Bahia (Brazil)
+* Panagiotis Astithas, Mozilla (USA)
 * Claudio Atzori, Istituto di Scienza e Tecnologie dell’Informazione “A. Faedo”, CNR (Italy)
 * Christos Douligeris, University of Piraeus (Greece)
 * Sarantos Kapidakis, Ionian University (Greece)
@@ -74,4 +75,3 @@ Technical University of Athens (Greece)
 * Yannis Smaragdakis, National and Kapodistrian University of Athens (Greece)
 * Diomidis Spinellis, Athens University of Economics and Business (Greece)
 * Prodromos Tsiavos, Onassis Cultural Center (Greece)
-* PC members pending
